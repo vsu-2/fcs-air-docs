@@ -12,3 +12,7 @@
 
 [Отчёт - 2 аттестация](https://github.com/vsu-2/fcs-air-docs/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20-%202%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F.docx)
 
+[Техническая документация - Django](https://docs.djangoproject.com/en/4.0/ref/databases/)
+
+[Периодические задачи django-celery-beat с поддержкой базы данных](https://django-celery-beat.readthedocs.io/en/latest/index.html)
+
