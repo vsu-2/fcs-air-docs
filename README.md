@@ -16,3 +16,5 @@
 
 [Периодические задачи django-celery-beat с поддержкой базы данных](https://django-celery-beat.readthedocs.io/en/latest/index.html)
 
+[Swagger](https://fcs-air-api.herokuapp.com/)
+
