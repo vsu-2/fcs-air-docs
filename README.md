@@ -17,3 +17,5 @@
 [Курсовая работа](https://github.com/vsu-2/fcs-air-docs/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%A2%D0%9F.pdf)
 
 [Презентация курсовой работы](https://github.com/vsu-2/fcs-air-docs/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%9F.pptx)
+
+[Видео Front-End](https://drive.google.com/file/d/1lvo0BhFl_BHQ6FdBaImOK45YlqcT84bL/view?usp=sharing)
