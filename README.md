@@ -19,3 +19,5 @@
 [Презентация курсовой работы](https://github.com/vsu-2/fcs-air-docs/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%9F.pptx)
 
 [Видео Front-End](https://drive.google.com/file/d/1lvo0BhFl_BHQ6FdBaImOK45YlqcT84bL/view?usp=sharing)
+
+[Видео Front-End](https://drive.google.com/drive/folders/1p0qkxrISZl5c_c-gGj4otO0vbh6_GFz7?usp=sharing)
